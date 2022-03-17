@@ -1,0 +1,119 @@
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csprojAssemblyReference.cache
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\hhck\TUH+HCG+QTM\btl hcg\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csprojAssemblyReference.cache
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\Project\winform\HCGHoaHoc\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.AssemblyReference.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Code CSharp\Tuần 12\ChuongTrinh_Nhom28\ChuongTrinh_Nhom28\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.AssemblyReference.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nộp tuần 8\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.AssemblyReference.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\OneDrive\Tài liệu HaUI\Bài giảng & Bài tập lớn\Hệ chuyên gia\Bài tập lớn\Nhóm 23 - Nhạ, Mạnh, Hải\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csprojAssemblyReference.cache
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe.config
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.exe
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\DieuCheHoaHoc.pdb
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.dll
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\bin\Debug\C5.xml
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csprojAssemblyReference.cache
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.DieuCheForm.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.KetQua.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.MainForm.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.Properties.Resources.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.ThemForm.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.TroGiupForm.resources
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.GenerateResource.cache
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CoreCompileInputs.cache
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.csproj.CopyComplete
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.exe
+D:\School\Haui\semster 7\expert systems\Nhom 23_HCG dieu che chat hoa hoc theo suy dien tien\Nhom 23_Chuong trinh\DieuCheHoaHoc\obj\Debug\DieuCheHoaHoc.pdb
